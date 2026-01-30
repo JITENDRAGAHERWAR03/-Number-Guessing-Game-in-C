@@ -35,3 +35,11 @@ Number-Guessing-Game/
 ├── guessing_game.c
 └── README.md
 
+---
+
+## ▶️ How to Run the Program
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/number-guessing-game.git
+
