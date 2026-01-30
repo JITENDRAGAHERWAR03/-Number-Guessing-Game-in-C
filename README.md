@@ -67,7 +67,8 @@ The program gives hints until the correct number is guessed
 Total attempts are displayed at the end
 
 ---
-🖥 Sample Output
+🖥 Sample Output :
+```
 Welcome to the world of guessing number game!
 
 Please Enter the number between 1 to 100: 45
@@ -81,7 +82,7 @@ Congratulations!!! You have guessed the number in 3 attempts
 
 Bye Bye! Thank you for playing the game
 Developed by: @jitendra
-
+```
 ---
 📌 Future Improvements
 
