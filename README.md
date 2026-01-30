@@ -29,12 +29,12 @@ The program generates a random number between **1 and 100**, and the player must
 
 ## 📂 Project Structure
 
-
+```
 Number-Guessing-Game/
 │
 ├── guessing_game.c
 └── README.md
-
+```
 ---
 
 ## ▶️ How to Run the Program
@@ -42,15 +42,20 @@ Number-Guessing-Game/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/number-guessing-game.git
+```
 2️⃣ Navigate to Project Folder
+```
 cd number-guessing-game
-
+```
 3️⃣ Compile the Program
+```
 gcc guessing_game.c -o guessing_game
-
+```
 4️⃣ Run the Game
+```
 ./guessing_game
-
+```
+---
 🧠 Game Logic Explained
 
 The program generates a random number between 1 and 100
@@ -61,6 +66,7 @@ The program gives hints until the correct number is guessed
 
 Total attempts are displayed at the end
 
+---
 🖥 Sample Output
 Welcome to the world of guessing number game!
 
@@ -76,6 +82,7 @@ Congratulations!!! You have guessed the number in 3 attempts
 Bye Bye! Thank you for playing the game
 Developed by: @jitendra
 
+---
 📌 Future Improvements
 
 ✅ Input validation
@@ -86,6 +93,7 @@ Developed by: @jitendra
 
 🏆 Performance rating based on attempts
 
+---
 👨‍💻 Author
 
 Jitendra Gaherwar
@@ -94,6 +102,7 @@ Jitendra Gaherwar
 
 💻 Beginner C Programmer & Aspiring Software Developer
 
+---
 ⭐ Support
 
 If you like this project:
